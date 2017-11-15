@@ -1,0 +1,6 @@
+1:java:introduccion a java:kelvin:10.5:100
+2:bootstrap:introduccion a bootstrap:celsius:12.0:50
+3:java:curso avanzado de java:farenheit:25.1:10
+4:html:base de html:hatemail:5.5:1000
+5:css:introduccion a css:lee:10.5:80
+11:algo:algoalgo:alguien:10.0:100
